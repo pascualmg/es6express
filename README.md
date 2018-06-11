@@ -1,4 +1,5 @@
 # es6Express quick api Mocker
+# Born to be forked
 
 Skel with ES6 syntax configured using babel and express. 
 ##Instaltion:
