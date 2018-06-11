@@ -1,9 +1,8 @@
-# es6Express quick api Mocker
-# Born to be forked
-
+# es6Express API REST quick mocker
 Skel with ES6 syntax configured using babel and express. 
 ##Instaltion:
 
+### Fork me first and... 
 ```console
 npm install
 npm run build
